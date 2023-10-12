@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siasdevstudio
+- 👀 I’m interested in making games and sharing my knowladge with other people
+- 🌱 I’m currently learning godot
+- 💞️ I’m looking to collaborate on game ideas or game projects to learn & upskill
+- 📫 How to reach me pop me a mail siasdevstudio@gmail.com
